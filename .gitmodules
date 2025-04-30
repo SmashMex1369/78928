@@ -13,3 +13,6 @@
 [submodule "ExpressJS"]
 	path = ExpressJS
 	url = https://github.com/SmashMex1369/ExpressJS.git
+[submodule "react"]
+	path = react
+	url = https://github.com/SmashMex1369/react.git
