@@ -16,3 +16,6 @@
 [submodule "react"]
 	path = react
 	url = https://github.com/SmashMex1369/react.git
+[submodule "ProyectoRojano"]
+	path = ProyectoRojano
+	url = https://github.com/juanCarlosGarciaLDG/ProyectoRojano.git
